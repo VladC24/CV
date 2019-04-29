@@ -59,5 +59,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **MadiganGill** (September 2016 to October 2017)   
 *Logistics Project Manager* 
 
-**Freelance** (June 2014 to November 2017)
+**Freelance** (June 2014 to November 2017)                                                                                 
 *Lifting Appointed Person*
