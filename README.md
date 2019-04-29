@@ -1,10 +1,10 @@
-## Vlad Andrei Chiriac
+## VLAD ANDREI CHIRIAC
 
-Ex Senior Logistics Manager, Software Developer in the making. Currently a student at Makers. In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London: One Tower - Vauxhall, Aldgate Tower - Aldgate East, St John's Wood Cricket Grounds, 80 Charlotte Street - Fitzrovia. 
+Ex Senior Logistics Manager, Software Developer in the making. Currently a student at Makers. In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London. Given that the Construction Industry boomed in the past few years, I like to think that I contributed to at least 1% of the projects.
 
-Having worked with a large number of people on a daily basis and having been responsible for a team of 43 people, I value team work, creativity, integrity and having fun while doing everything! 
+Having worked with a large number of people on a daily basis and having been responsible for a team of 43 people, I value team work, creativity and integrity.
 
-By completing Makers Academy, I am looking to get my first job as a Junior Full Stack Developer, as I am the type of person that loves dynamic change and learning new things constantly.
+By completing Makers Academy, I am keen to enter the world of tech as a Junior Full Stack Developer. I am very excited for a future of dynamic change, of new and revolutionary technologies that have the possbility of drastically changing the world we live in.
 
 ## Skills
 
@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -38,17 +38,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Greenwich, London, UK (October 2012 to September 2014) 
+  ** MSc Sustainable Futures **
+- Dissertation: "Fracking in the media"
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### "George Bacovia" University, Bacau, Romania (October 2004 - June 2008) 
+  ** BA Marketing **
 
-#### Any other qualifications
+#### "Transilvania" University, Brasov, Romania (October 2002 - July 2008) 
+  ** BSc. Silviculture and Forest Exploitation **
 
+#### Other Qualifications
+- PRINCE2 Practitioner
+  
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**MadiganGill** (November 2017 to April 2019)    
+*Senior Logistics Manager*  
+**MadiganGill** (September 2016 to October 2017)   
+*Logistics Project Manager* 
+**Freelance** (June 2014 to November 2017)
+*Lifting Appointed Person*
