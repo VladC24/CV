@@ -39,17 +39,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### University of Greenwich, London, UK (October 2012 to September 2014) 
-  ** MSc Sustainable Futures **
+  **MSc Sustainable Futures**
 - Dissertation: "Fracking in the media"
 
 #### "George Bacovia" University, Bacau, Romania (October 2004 - June 2008) 
-  ** BA Marketing **
+  *BA Marketing*
 
 #### "Transilvania" University, Brasov, Romania (October 2002 - July 2008) 
-  ** BSc. Silviculture and Forest Exploitation **
+  *BSc. Silviculture and Forest Exploitation*
 
-#### Other Qualifications
-- PRINCE2 Practitioner
+#### PRINCE2 Practitioner
   
 ## Experience
 
