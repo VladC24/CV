@@ -1,6 +1,10 @@
-## Your Name
+## Vlad Andrei Chiriac
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Ex Senior Logistics Manager, Software Developer in the making. Currently a student at Makers. In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London: One Tower - Vauxhall, Aldgate Tower - Aldgate East, St John's Wood Cricket Grounds, 80 Charlotte Street - Fitzrovia. 
+
+Having worked with a large number of people on a daily basis and having been responsible for a team of 43 people, I value team work, creativity, integrity and having fun while doing everything! 
+
+By completing Makers Academy, I am looking to get my first job as a Junior Full Stack Developer, as I am the type of person that loves dynamic change and learning new things constantly.
 
 ## Skills
 
