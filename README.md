@@ -15,15 +15,25 @@ Perfect Delivery Certificate) and finished the project 10% under the expenditure
 the best use of time and resources.
 * Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
 
-#### 
-
-* 
+#### Communication
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Leadership
+
+* 
+
+#### Self motivation
+
+* 
+
+#### Adaptability
+
+* 
 
 ## Education
 
