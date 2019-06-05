@@ -8,16 +8,16 @@ By completing Makers Academy, I am keen to enter the world of tech as a Junior F
 
 ## Skills
 
-#### This Skill
+#### Strategic planner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+* By managing a team of 12 people in my first role as a project manager, I achieved maximum performance (awarded with
+Perfect Delivery Certificate) and finished the project 10% under the expenditure budget, by making
+the best use of time and resources.
+* Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
 
-- Experience
-- Achievements
-- Evidence
+#### 
 
-#### Another Skill
-
+* 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -27,7 +27,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (April 2019 to July 2019)
+#### Software Developer Bootcamp: MAKERS ACADEMY - London UK (April 2019 to July 2019)
+1 dev bootcamp in Europe / 16-week program / 10% acceptance rate
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,9 +37,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
-#### PRINCE2 Practitioner (July 2018)
+### HTML5 and CSS Fundamentals: EDX & W3Cx (October - December 2018)
+
+#### PRINCE2 Practitioner: Knowledge Train & AXELOS London UK (July 2018)
 
 #### University of Greenwich, London, UK (October 2012 to September 2014) 
   *MSc Sustainable Futures*
@@ -60,3 +63,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Freelance** (June 2014 to November 2017)                                                                                 
 *Lifting Appointed Person*
+
+## Interests
+Mountain biker, world traveler, adventurer.
