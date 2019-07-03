@@ -44,7 +44,7 @@ Project (Code)| Description | Demo Links | Technologies Used | Testing Technolog
 --- | --- | --- | --- | ---
 [MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone |  | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | Capybara, RSpec
 [Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors |  | Ruby, Sinatra, HTML, CSS | Capybara, RSpec
-[Acebook](https://github.com/VladC24/acebook-d-railed | A wild Facebook clone that introduced me to SASS and Bootstrap | | Ruby, Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara
+[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to SASS and Bootstrap | | Ruby, Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara
 [Thermostat](https://github.com/VladC24/Thermostat) | A simple thermostat webapp | | Javascript, jQuery, AJAX, APIs | Jasmine
 
 ## Education
