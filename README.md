@@ -79,6 +79,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * __Adventurer__
 
 ## Contact
-* Github: [VladC24][1]
+* Github: [VladC24](https://github.com/VladC24)
 * Codewars: https://www.codewars.com/users/Vladut24
 * LinkedIn: www.linkedin.com/in/vladchiriac
