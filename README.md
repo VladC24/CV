@@ -1,10 +1,14 @@
 ## VLAD ANDREI CHIRIAC
 
-Ex Senior Logistics Manager, Software Developer in the making. Currently a student at Makers. In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London. Given that the Construction Industry boomed in the past few years, I like to think that I contributed to at least 1% of the projects.
+I am an dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
-Having worked with a large number of people on a daily basis and having been responsible for a team of 43 people, I value team work, creativity and integrity.
+In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London. Given that the Construction Industry boomed in the past few years, I like to think that I contributed to at least 1% of the projects. Having worked with a large number of people on a daily basis, I value team work, creativity and integrity. 
 
-By completing Makers Academy, I am keen to enter the world of tech as a Junior Full Stack Developer. I am very excited for a future of dynamic change, of new and revolutionary technologies that have the possbility of drastically changing the world we live in.
+Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for a Junior Developer job.  Would love to work in a commited and supportive team, where these practices are adhered to.
+
+I am very excited for a future of dynamic change, of new and revolutionary technologies that have the possbility of drastically changing the world we live in. 
+
+__Tech Skills__ : Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Skills
 
@@ -38,18 +42,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Software Developer Bootcamp: MAKERS ACADEMY - London UK (April 2019 to July 2019)
-1 dev bootcamp in Europe / 16-week program / 10% acceptance rate
+1 dev bootcamp in Europe / 16-week program, focusing on:
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+* Agile methodologies
+* Object-oriented design
+* Test driven development and behaviour driven development
+* Pair programming
+* XP values
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Capybara
-
-### HTML5 and CSS Fundamentals: EDX & W3Cx (October - December 2018)
+#### HTML5 and CSS Fundamentals: EDX & W3Cx (October - December 2018)
 
 #### PRINCE2 Practitioner: Knowledge Train & AXELOS London UK (July 2018)
 
@@ -70,9 +71,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **MadiganGill** (September 2016 to October 2017)   
 *Logistics Project Manager* 
-
-**Freelance** (June 2014 to November 2017)                                                                                 
-*Lifting Appointed Person*
 
 ## Interests
 Mountain biker, world traveler, adventurer.
