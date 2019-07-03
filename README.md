@@ -1,11 +1,12 @@
-## VLAD ANDREI CHIRIAC
+# VLAD ANDREI CHIRIAC
+[SKILLS](#Skills) | [EDUCATION](#Education) | [EXPERIENCE](#Experience)
 
 I am an dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
-In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London. Given that the Construction Industry boomed in the past few years, I like to think that I contributed to at least 1% of the projects. Having worked with a large number of people on a daily basis, I value team work, creativity and integrity. 
+In the past 8 years, I have been working within the Construction Industry, in some of the most prestigious projects in London. Given that the Construction Industry boomed in the past few years, I like to think that I contributed to at least 1% of the projects. Having worked with a large number of people on a daily basis, I value team work, creativity and integrity.
 
-Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for a Junior Developer job.  Would love to work in a commited and supportive team, where these practices are adhered to.
-
+Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for a Junior Developer job.  Would love to work in a commited and supportive team, where these practices are adhered to. 
+ 
 I am very excited for a future of dynamic change, of new and revolutionary technologies that have the possbility of drastically changing the world we live in. 
 
 __Tech Skills__ : Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
