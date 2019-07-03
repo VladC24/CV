@@ -1,5 +1,5 @@
 # VLAD ANDREI CHIRIAC
-[SKILLS](#Skills) | [EDUCATION](#Education) | [EXPERIENCE](#Experience)
+[SKILLS](#Skills) | [PROJECTS](#Projects) | [EDUCATION](#Education) | [EXPERIENCE](#Experience) | [INTERESTS](#Interests) | [CONTACT](#Contact)
 
 I am an dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
@@ -74,4 +74,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Logistics Project Manager* 
 
 ## Interests
-Mountain biker, world traveler, adventurer.
+* __Mountain biker__ 
+* __World traveller__ - 27 countries and counting
+* __Adventurer__
+
+## Contact
+* Github: [VladC24][1]
+* Codewars: https://www.codewars.com/users/Vladut24
+* LinkedIn: www.linkedin.com/in/vladchiriac
