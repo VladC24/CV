@@ -40,7 +40,7 @@ Changing projects almost every year in my previous job roles gave me the confide
 During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
 
 ## Projects
-| Project (Code)| Description | Technologies Used | Testing Technologies |
+| Project (Code)| Description | Links | Technologies Used | Testing Technologies |
 | --- | --- | --- | --- | --- |
 |[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | |Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | | Capybara, RSpec|
 |[Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors | | Ruby, Sinatra, HTML, CSS | Capybara, RSpec|
