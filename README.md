@@ -44,8 +44,9 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 | --- | --- | --- | --- |
 |[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | Capybara, RSpec|
 |[Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors | Ruby, Sinatra, HTML, CSS | Capybara, RSpec|
-|[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to SASS and Bootstrap | Ruby, Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
 |[Thermostat](https://github.com/VladC24/Thermostat) | A simple thermostat webapp, great for familiarising with Javascript and Jasmine TDD framework | Javascript, jQuery, AJAX, APIs | Jasmine|
+|[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to SASS and Bootstrap | Ruby, Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
+|[Hide-and-Go-Betroot](https://github.com/VladC24/vr-hide-and-go-leek) | A very entertaining, with unique mazes, virtual reality game for the Samsung Geard VR headset, made in C# and Unity Software | C#, Unity, NUnit | NUnit|
 
 ## Education
 
