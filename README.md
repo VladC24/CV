@@ -9,7 +9,7 @@ Throughout my experience at Makers Academy, I have understood the importance of 
  
 I am excited for a future of dynamic change, of new and revolutionary technologies that have the possibility of drastically changing the world we live in. 
 
-__Tech Skills__ : Ruby, Rails, Sinatra, Node.JS, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+__Tech Skills__ : Ruby, Rails, Sinatra, Node.JS, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, C#, Unity3D
 
 ## Skills
 
