@@ -42,7 +42,7 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 ## Projects
 | Project (Code)| Description | Links | Technologies Used | Testing Technologies |
 | --- | --- | --- | --- | --- |
-|[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | [Youtube]() | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | | Capybara, RSpec|
+|[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | [Youtube]() | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | Capybara, RSpec|
 |[Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors | [Youtube](https://youtu.be/pB9EdEbQ-ms)| Ruby, Sinatra, HTML, CSS | Capybara, RSpec|
 |[Thermostat](https://github.com/VladC24/Thermostat) | A simple thermostat webapp, great for familiarising with Javascript and Jasmine TDD framework | | Javascript, jQuery, AJAX, APIs | Jasmine|
 |[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to SASS and Bootstrap | [Heroku](https://acebook-d-railed.herokuapp.com), [Youtube](https://youtu.be/10WbGi4myl8) | Ruby, Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
