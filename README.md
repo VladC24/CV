@@ -65,7 +65,7 @@ No. 1 dev bootcamp in Europe / 16-week program, focusing on:
 
 #### University of Greenwich, London, UK (October 2012 to September 2014) 
   *MSc Sustainable Futures*
-- Dissertation: "Fracking in the media"
+- Dissertation: "A media portrait of Fracking"
 
 #### "George Bacovia" University, Bacau, Romania (October 2004 - June 2008) 
   *BA Marketing*
