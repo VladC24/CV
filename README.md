@@ -37,7 +37,7 @@ Working in a fast-paced environment made me understand the value of self-progres
 #### Adaptability
 
 Changing projects almost every year in my previous job roles gave me the confidence I needed to learn new skills and thrive in a challenging environment.
-During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
+During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day, where I learned how to use APIs - [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
 
 ## Projects
 | Project (Code)| Description | Links | Technologies Used | Testing Technologies |
@@ -45,7 +45,7 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 |[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | [Youtube]() | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | Capybara, RSpec|
 |[Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors | [Youtube](https://youtu.be/pB9EdEbQ-ms)| Ruby, Sinatra, HTML, CSS | Capybara, RSpec|
 |[Thermostat](https://github.com/VladC24/Thermostat) | A simple thermostat webapp, great for familiarising with Javascript and Jasmine TDD framework | | Javascript, jQuery, AJAX, APIs | Jasmine|
-|[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to SASS and Bootstrap | [Heroku](https://acebook-d-railed.herokuapp.com), [Youtube](https://youtu.be/10WbGi4myl8) | Ruby on Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
+|[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to Rails, SASS and Bootstrap | [Heroku](https://acebook-d-railed.herokuapp.com), [Youtube](https://youtu.be/10WbGi4myl8) | Ruby on Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
 |[Hide-and-Go-Betroot](https://github.com/VladC24/vr-hide-and-go-leek) | A very entertaining, with unique mazes, virtual reality game for the Samsung Geard VR headset | [Youtube](https://www.youtube.com/watch?v=iWKcLEZrZ1Q) | C#, Unity Software, NUnit | NUnit|
 
 ## Education
