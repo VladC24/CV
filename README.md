@@ -3,7 +3,7 @@
 
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
-In the past 8 years, I have been working within the Construction Industry in some of the most prestigious projects in London. Overall I like to think I contributed to at least 1% of these projects. Having worked with a large number of people on a daily basis, I value team work, creativity and integrity.
+In the past 8 years, I have been working within the Construction Industry in some of the most prestigious projects in London. Overall I like to think I contributed to at least 1% of these projects. Having worked in a fast paced environment, with a large number of people on a daily basis, I value team work, creativity and integrity.
 
 Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for my next role.  I would love to work in a committed and supportive team, where these practices are adhered to. 
  
@@ -22,13 +22,15 @@ the best use of time and resources.
 
 #### Communication
 
-In my previous role I was responsible for providing project updates during weekly briefings with the client senior management  team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all workforce on site (approx.700 people). 
-
 While at Makers Academy I worked collaboratively with my colleagues on multiple group projects under tight deadlines; good communication and constant feedback was vital for maintaining code quality. I am also coaching two students from the junior cohort, helping them navigate through Makers' challenges.
+
+In my previous role I was responsible for providing project updates during weekly briefings with the client senior management  team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all workforce on site (approx.700 people). 
 
 #### Leadership
 
-As a Senior Logistics Manager I led and coordinated a team of 43 people responsible for various site activities ranging from delivery management to site security. To manage the team effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality and Completion, Environment and Sustainability.
+At Makers Academy, we used to do daily standups and retros while on team projects. Each day a member of the team was leading and taking the ultimate decisions on what we would work on and how we will implement the features. On the second day of the Acebook project, I led the team and decided to mob the first feature - the sign-up process, so all members of the team get introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails is working.
+
+In my previous role , in order to manage a team of 43 people effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality and Completion, Environment and Sustainability.
 
 #### Self motivation
 
@@ -37,6 +39,7 @@ Working in a fast-paced environment made me understand the value of self-progres
 #### Adaptability
 
 Changing projects almost every year in my previous job roles gave me the confidence I needed to learn new skills and thrive in a challenging environment.
+
 During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day, where I learned how to use APIs - [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
 
 ## Projects
