@@ -15,22 +15,22 @@ __Tech Skills__ : Ruby, Rails, Sinatra, Node.JS, HTML, CSS, JavaScript, jQuery, 
 
 #### Strategic planner
 
-* By managing a team of 12 people in my first role as a project manager, I achieved maximum performance (awarded with
+By managing a team of 12 people in my first role as a project manager, I achieved maximum performance (awarded with
 Perfect Delivery Certificate) and finished the project 10% under the expenditure budget, by making
-the best use of time and resources.
-* Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
+the best use of time and resources. 
+Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
 
 #### Communication
 
-While at Makers Academy I worked collaboratively with my colleagues on multiple group projects under tight deadlines; good communication and constant feedback was vital for maintaining code quality. I am also coaching two students from the junior cohort, helping them navigate through Makers' challenges.
+While at Makers Academy I worked collaboratively with my colleagues on multiple group projects under tight deadlines; good communication and constant feedback was vital for maintaining code quality. I also coached two students from the junior cohort, helping them navigate through Makers' challenges.
 
-In my previous role I was responsible for providing project updates during weekly briefings with the client senior management  team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all workforce on site (approx.700 people). 
+In my previous role as a Senior Logistics Manager I was responsible for providing project updates during weekly briefings with the client senior management team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all the workforce on site (approx.700 people). 
 
 #### Leadership
 
-At Makers Academy, we used to do daily standups and retros while on team projects. Each day a member of the team was leading and taking the ultimate decisions on what we would work on and how we will implement the features. On the second day of the Acebook project, I led the team and decided to mob the first feature - the sign-up process, so all members of the team get introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails is working.
+In one of the key projects at Makers (Acebook), I took the lead in upskilling the team in Ruby on Rails, mobbing the first feature - the sign-up process. This way all members of the team got introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails works.
 
-In my previous role , in order to manage a team of 43 people effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality and Completion, Environment and Sustainability.
+In the past, in order to manage a team of 43 people effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality, Environment and Sustainability.
 
 #### Self motivation
 
@@ -45,7 +45,6 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 ## Projects
 | Project (Code)| Description | Links | Technologies Used | Testing Technologies |
 | --- | --- | --- | --- | --- |
-|[MakersBNB](https://github.com/VladC24/MakersBNB) | A lovely Airbnb clone | [Youtube]() | Ruby, Sinatra, HTML, CSS, PostgreSQL /w Data Mapper | Capybara, RSpec|
 |[Rock-Paper-Scissors](https://github.com/VladC24/rps-challenge) | A cool Single Player webapp to play Rock Paper Scissors | [Youtube](https://youtu.be/pB9EdEbQ-ms)| Ruby, Sinatra, HTML, CSS | Capybara, RSpec|
 |[Thermostat](https://github.com/VladC24/Thermostat) | A simple thermostat webapp, great for familiarising with Javascript and Jasmine TDD framework | | Javascript, jQuery, AJAX, APIs | Jasmine|
 |[Acebook](https://github.com/VladC24/acebook-d-railed) | A wild Facebook clone that introduced me to Rails, SASS and Bootstrap | [Heroku](https://acebook-d-railed.herokuapp.com), [Youtube](https://youtu.be/10WbGi4myl8) | Ruby on Rails, PostgreSQL /w Active Record, HTML, Bootstrap, SASS, Heroku | Rspec, Capybara|
