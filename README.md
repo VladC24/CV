@@ -3,7 +3,7 @@
 
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
-In the past 8 years, I have been working within the Construction Industry in some of the most prestigious projects in London. Overall I like to think I contributed to at least 1% of these projects. Having worked in a fast paced environment, with a large number of people on a daily basis, I value team work, creativity and integrity.
+In the past 8 years, I have been working within the Construction Industry in some of the most prestigious projects in London. Overall I like to think I contributed to at least 1% of these projects. Having worked in a fast paced environment, with a large number of people on a daily basis, I value team work, honesty and integrity.
 
 Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for my next role.  I would love to work in a committed and supportive team, where these practices are adhered to. 
  
