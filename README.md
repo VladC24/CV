@@ -28,7 +28,7 @@ In my previous role as a Senior Logistics Manager I was responsible for providin
 
 #### Leadership
 
-In one of the key projects at Makers (Acebook), I took the lead in upskilling the team in Ruby on Rails, mobbing the first feature - the sign-up process. This way all members of the team got introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails works.
+In one of the key projects at Makers ([Acebook](https://github.com/VladC24/acebook-d-railed)), I took the lead in upskilling the team in Ruby on Rails, mobbing the first feature - the sign-up process. This way all members of the team got introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails works.
 
 In the past, in order to manage a team of 43 people effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality, Environment and Sustainability.
 
