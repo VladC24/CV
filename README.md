@@ -30,7 +30,7 @@ In my previous role as a Senior Logistics Manager I was responsible for providin
 
 In one of the key projects at Makers ([Acebook](https://github.com/VladC24/acebook-d-railed)), I took the lead in upskilling the team in Ruby on Rails, mobbing the first feature - the sign-up process. This way all members of the team got introduced to Ruby on Rails and Active Record, thus making the pairing process in the following days more effective, as everyone got to understand how Rails works.
 
-In the past, in order to manage a team of 43 people effectively and increase productivity I established a weekly process, consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality, Environment and Sustainability.
+In the past, in order to manage a large team effectively and increase productivity, I established a weekly process consisting of daily briefings, prioritisation of workload and status reports with the team leads. Over the course of 1.5 years my team was awarded five times with the first place for achieving the highest overall score on Health and Safety, Quality, Environment and Sustainability.
 
 #### Self motivation
 
@@ -40,7 +40,7 @@ Working in a fast-paced environment made me understand the value of self-progres
 
 Changing projects almost every year in my previous job roles gave me the confidence I needed to learn new skills and thrive in a challenging environment.
 
-During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day, where I learned how to use APIs - [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
+During the Makers Academy course, I have proactively sought out new challenges, as I believe this is the best way to cultivate a growth mindset. I am capable to take on new technologies and learn new practices rapidly and efficiently; also able to deal with sudden or frequent changes on coding projects, by continuing to work and understand what is required to be changed in the code; proof are the projects I have completed while at Makers (one of them being a single page app in Javascript that shows the Guardian news of the day, where I learned how to use APIs - [NewsApp](https://github.com/VladC24/news-summary-challenge/blob/master/README.md)).
 
 ## Projects
 | Project (Code)| Description | Links | Technologies Used | Testing Technologies |
