@@ -15,7 +15,7 @@ __Tech Skills__ : Ruby, Rails, Sinatra, Node.JS, HTML, CSS, JavaScript, jQuery, 
 
 #### Strategic planning
 
-Having worked on a variety of projects at Makers Academy, setting objectives and focusing on code architecture and design was key to laying out frameworks that enabled me to work towards achieving projects' goals in the most efficient and effective way. Proof are the team projects built, such as one of the group projects [Acebook](https://github.com/VladC24/acebook-d-railed).
+Having worked on a variety of projects at Makers Academy, setting objectives and focusing on code architecture and design was key to laying out frameworks that enabled me to work towards achieving projects' goals in the most efficient and effective way. Proof are the team projects built, such as [Acebook](https://github.com/VladC24/acebook-d-railed).
 
 Being introduced to project management in the last 4 years, I really enjoyed bringing projects to a successful end with maximum efficiency. I enjoyed leading and developing small to large teams as well as solving complex and strategic problems. 
 By managing a team of 12 people in my first role as a project manager, I achieved maximum performance (awarded with
