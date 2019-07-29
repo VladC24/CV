@@ -13,18 +13,21 @@ __Tech Skills__ : Ruby, Rails, Sinatra, Node.JS, HTML, CSS, JavaScript, jQuery, 
 
 ## Skills
 
-#### Strategic planner
+#### Strategic planning
 
+Having worked on a variety of projects at Makers Academy, setting objectives and focusing on code architecture and design was key to laying out frameworks that enabled me to work towards achieving projects' goals in the most efficient and effective way. Proof are the team projects built, such as the final project, a virtual reality game [Hide and Go Beetroot](https://github.com/VladC24/vr-hide-and-go-leek).
+
+Being introduced to project management in the last 4 years, I really enjoyed bringing projects to a successful end with maximum efficiency. I enjoyed leading and developing small to large teams as well as solving complex and strategic problems. 
 By managing a team of 12 people in my first role as a project manager, I achieved maximum performance (awarded with
 Perfect Delivery Certificate) and finished the project 10% under the expenditure budget, by making
-the best use of time and resources. 
-Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
+the best use of time and resources. Motivated and encouraged teamwork within the workforce to ensure set productivity targets are met.
 
 #### Communication
 
-While at Makers Academy I worked collaboratively with my colleagues on multiple group projects under tight deadlines; good communication and constant feedback was vital for maintaining code quality. I also coached two students from the junior cohort, helping them navigate through Makers' challenges.
+Both at Makers Academy and in my previous career I developed strong communication and stakeholder management skills. 
+While at Makers Academy I worked collaboratively with my colleagues on multiple group projects in an agile environment and under tight deadlines; my ability to communicate the problems I face when coding, as well as explaining what I intend to do in a simple, yet understandable manner, is what helped me succeed in my pairing sessions and group projects at Makers. Good communication and feedback in pairing sessions was great for actively learning and have better productivity and code quality.I also coached two students from the junior cohort, helping them navigate through Makers' challenges.
 
-In my previous role as a Senior Logistics Manager I was responsible for providing project updates during weekly briefings with the client senior management team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all the workforce on site (approx.700 people). 
+In my previous role as a Senior Logistics Manager regular consultation with senior stakeholders was essential to ensure that project requirements were agreed and a delivery solution was negotiated. I was responsible for providing project updates during weekly briefings with the client senior management team and leading weekly logistics meetings with the 27 contractors on site. As part of my role I was also responsible for managing and developing Health & Safety announcements and posters for all the workforce on site (approx.700 people). 
 
 #### Leadership
 
