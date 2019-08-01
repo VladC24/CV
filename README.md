@@ -89,6 +89,9 @@ No. 1 dev bootcamp in Europe / 16-week program, focusing on:
 * __Mountain biker__ 
 * __World traveller__ - 27 countries and counting
 * __Adventurer__
+* __Reading__
+* __Yoga__
+* __Landscaping__
 
 ## Contact
 * Github: [VladC24](https://github.com/VladC24)
